@@ -1,2 +1,3 @@
 # CNN_face-recognition
-cnn frec
+
+CNN face recognition using Haar cascade and LBPH (Local Binary Patterns Histograms) with CNN represents a fusion approach combining traditional computer vision techniques with deep learning. Haar cascade is employed for face detection, providing a robust method to locate faces within an image or video frame. Once faces are detected, LBPH is utilized for feature extraction, capturing local patterns in the facial region. These features are then fed into a CNN architecture for further processing and classification. By combining the strengths of both traditional methods and deep learning, this approach aims to achieve enhanced accuracy and robustness in face recognition tasks, making it suitable for various real-world applications such as surveillance, access control, and biometric authentication.
